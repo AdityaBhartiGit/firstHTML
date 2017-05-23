@@ -1,0 +1,18 @@
+
+.newStyle {
+    background-color: yellow;
+    text-align: left;
+    text-decoration: underline;
+}
+h1 {
+    color: blue;
+}
+body {
+    background-color: powderblue;
+}
+
+.tableAttribute {
+    border: 05px solid;
+    width:50%
+
+}
